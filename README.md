@@ -1,1 +1,1 @@
-# practio-js
+# practico-js
